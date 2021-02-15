@@ -1,3 +1,3 @@
-Hello, I’m @n3r0t
+Hello, I’m @n3r0t (\ˈnɪərəʊ\)
 
-i like python because i like living dangerously.
+doing python because i like living dangerously.
